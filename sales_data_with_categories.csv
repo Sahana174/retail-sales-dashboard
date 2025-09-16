@@ -1,0 +1,51 @@
+sale_date,product_name,product_category,customer_name,customer_region,quantity,unit_price
+10-09-2025,Watch,Accessories,Meena Gupta,Bangalore,5,5454
+06-09-2025,Printer,Electronics,Meena Gupta,Delhi,2,1645
+05-09-2025,Wallet,Accessories,Neha Verma,Chennai,4,23072
+02-09-2025,Handbag,Accessories,Meena Gupta,Delhi,5,6083
+02-09-2025,Watch,Accessories,Sonia Das,Hyderabad,2,11696
+11-09-2025,Cricket Bat,Sports,Priya Sharma,Bangalore,5,44514
+13-09-2025,Tennis Racket,Sports,Arjun Patel,Bangalore,5,40140
+04-09-2025,Printer,Electronics,John Smith,Mumbai,1,31370
+06-09-2025,Watch,Accessories,Meena Gupta,Delhi,2,48557
+06-09-2025,Cricket Bat,Sports,David Johnson,Chennai,5,18203
+07-09-2025,Headphones,Electronics,Arjun Patel,Delhi,3,47331
+06-09-2025,Headphones,Electronics,Anita Reddy,Hyderabad,1,1267
+16-09-2025,Sunglasses,Accessories,Ravi Kumar,Chennai,3,56002
+01-09-2025,Headphones,Electronics,Meena Gupta,Hyderabad,1,51723
+14-09-2025,Cricket Bat,Sports,Priya Sharma,Hyderabad,3,23495
+07-09-2025,Washing Machine,Appliances,Arjun Patel,Bangalore,5,51191
+10-09-2025,Washing Machine,Appliances,Anita Reddy,Delhi,4,59689
+07-09-2025,Headphones,Electronics,Sonia Das,Chennai,4,25903
+10-09-2025,Tennis Racket,Sports,Arjun Patel,Chennai,1,56459
+07-09-2025,Smartphone,Electronics,Anita Reddy,Hyderabad,5,9249
+14-09-2025,Laptop,Electronics,David Johnson,Mumbai,2,15174
+07-09-2025,Refrigerator,Appliances,John Smith,Hyderabad,4,46478
+15-09-2025,Cricket Bat,Sports,David Johnson,Bangalore,1,3737
+10-09-2025,Football,Sports,Neha Verma,Mumbai,3,8116
+15-09-2025,Sunglasses,Accessories,Anita Reddy,Hyderabad,4,13241
+15-09-2025,Tennis Racket,Sports,Neha Verma,Chennai,3,15128
+13-09-2025,Mixer Grinder,Appliances,Priya Sharma,Bangalore,2,26232
+04-09-2025,Handbag,Accessories,Neha Verma,Bangalore,1,47893
+12-09-2025,Smartphone,Electronics,Arjun Patel,Bangalore,5,59043
+05-09-2025,Laptop,Electronics,Arjun Patel,Mumbai,4,11594
+06-09-2025,Wallet,Accessories,Meena Gupta,Mumbai,1,46842
+14-09-2025,Refrigerator,Appliances,Ravi Kumar,Hyderabad,5,30793
+08-09-2025,Yoga Mat,Sports,Ravi Kumar,Chennai,1,42303
+09-09-2025,Washing Machine,Appliances,Meena Gupta,Hyderabad,3,46981
+05-09-2025,Handbag,Accessories,Anita Reddy,Mumbai,3,2673
+10-09-2025,Laptop,Electronics,Neha Verma,Bangalore,2,31615
+05-09-2025,Watch,Accessories,Neha Verma,Delhi,1,41611
+08-09-2025,Cricket Bat,Sports,Meena Gupta,Bangalore,5,58005
+05-09-2025,Mixer Grinder,Appliances,Arjun Patel,Hyderabad,3,30169
+02-09-2025,Yoga Mat,Sports,John Smith,Mumbai,4,10394
+06-09-2025,Smartphone,Electronics,David Johnson,Hyderabad,3,31309
+05-09-2025,Watch,Accessories,John Smith,Chennai,3,43412
+12-09-2025,Cricket Bat,Sports,Priya Sharma,Delhi,1,50915
+16-09-2025,Laptop,Electronics,Neha Verma,Hyderabad,4,40529
+16-09-2025,Watch,Accessories,Vikram Singh,Hyderabad,5,47209
+02-09-2025,Washing Machine,Appliances,Meena Gupta,Chennai,4,17343
+09-09-2025,Mixer Grinder,Appliances,Anita Reddy,Bangalore,5,36736
+09-09-2025,Printer,Electronics,Neha Verma,Bangalore,1,45413
+10-09-2025,Microwave,Appliances,Ravi Kumar,Delhi,3,37369
+01-09-2025,Smartphone,Electronics,Arjun Patel,Mumbai,2,34185
