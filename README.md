@@ -16,7 +16,11 @@ The goal is to help make data-driven decisions in retail business operations.
 - **Data Analysis & Processing:** Python, Pandas, NumPy  
 - **Data Visualization:** Matplotlib, Seaborn 
 - **Data Storage / Handling:** CSV, Excel  
-- **Other Tools:** MS Excel, Google Sheets  
+- **Other Tools:** MS Excel, Google Sheets
+
+ ##Screenshots
+- https://github.com/Sahana174/retail-sales-dashboard/commit/87e836fc0d3f37a54f23571b078fb290da704ab9
+- 
 
 ## 📊 Dataset Format
 The uploaded file should contain the following columns:  
