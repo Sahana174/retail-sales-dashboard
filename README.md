@@ -18,9 +18,14 @@ The goal is to help make data-driven decisions in retail business operations.
 - **Data Storage / Handling:** CSV, Excel  
 - **Other Tools:** MS Excel, Google Sheets
 
- ## 📸 Screenshots
-- https://github.com/Sahana174/retail-sales-dashboard/commit/87e836fc0d3f37a54f23571b078fb290da704ab9
-- https://github.com/Sahana174/retail-sales-dashboard/commit/87e836fc0d3f37a54f23571b078fb290da704ab9
+
+## 📸 Screenshots  
+
+### Dashboard View  
+![Dashboard Screenshot](https://github.com/Sahana174/retail-sales-dashboard/blob/main/Dashboard.png) 
+![Dashboard Screenshot](https://github.com/Sahana174/retail-sales-dashboard/blob/main/dashboard%20(2).png)  
+
+
 
 ## 📊 Dataset Format
 The uploaded file should contain the following columns:  
