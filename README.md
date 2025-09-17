@@ -35,7 +35,7 @@ The uploaded file should contain the following columns:
 
 
 
-## 🎯 Purpose
+##  Purpose
 This project demonstrates my ability to:  
 - Handle and clean real-world data  
 - Perform exploratory data analysis (EDA)  
